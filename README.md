@@ -10,7 +10,7 @@ endpoint: AAD V2
 
 > This sample is for ASP.NET Core 2.0. A newer version of this sample for ASP.NET Core2.1 is available from the [aspnetcore2-2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/tree/aspnetcore2-2) branch.
 
-![Build badge](https://identitydivision.visualstudio.com/_apis/public/build/definitions/a7934fdd-dcde-4492-a406-7fad6ac00e17/514/badge)
+[![Build Status](https://glink.visualstudio.com/Lekegrind/_apis/build/status/GLink.active-directory-aspnetcore-webapp-openidconnect-v2)](https://glink.visualstudio.com/Lekegrind/_build/latest?definitionId=7)
 
 ## Scenario
 
